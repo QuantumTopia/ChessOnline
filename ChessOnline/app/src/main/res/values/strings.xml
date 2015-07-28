@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chess Online</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_game_page">GamePage</string>
+    <string name="title_activity_settings_page">SettingsPage</string>
+    <string name="title_activity_registration_page">RegistrationPage</string>
+    <string name="title_activity_public_chatroom_page">PublicChatroomPage</string>
+
+</resources>
